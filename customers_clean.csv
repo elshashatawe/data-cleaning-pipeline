@@ -1,0 +1,5 @@
+id,name,email,signup_date,city
+1,Alice,ALICE@example.com,2024-04-01,Cairo
+2,Bob,bob@example.com,2024-04-02,Giza
+3,Charlie,nan,2024-04-03,Alexandria
+4,nan,dina@example.com,2024-03-04,Tanta
